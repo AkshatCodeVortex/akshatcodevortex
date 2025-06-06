@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat verma</h1>
-<h3 align="center">🚀 Hi, I’m Akshat Verma — a backend developer and founder of Squirrel. I build scalable, real-world systems — from multi-tenant apps and real-time platforms to clean REST APIs and secure JWT-based authentication. Passionate about turning complex problems into elegant code.</h3>
+<h3 align="center">🚀 Hi, I’m Akshat Verma — a backend developer and co-founder of Squirrel. I build scalable, real-world systems — from multi-tenant apps and real-time platforms to clean REST APIs and secure JWT-based authentication. Passionate about turning complex problems into elegant code.</h3>
 
 - 🔭 I’m currently working on **Mark**
 
